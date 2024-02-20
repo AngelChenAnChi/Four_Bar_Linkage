@@ -3,6 +3,9 @@
 # Demo
 ## 
 
-https://github.com/AngelChenAnChi/Four_Bar_Linkage/assets/134198220/dd6f4879-c685-42b4-bb17-2418cc94ff6e
+
+https://github.com/AngelChenAnChi/Four_Bar_Linkage/assets/134198220/5cc1dc51-741d-49a3-855b-0da379fe84a0
+
+
 
 
